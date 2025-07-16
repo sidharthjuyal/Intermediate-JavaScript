@@ -1,6 +1,6 @@
 # 🧠 JavaScript Mastery Notes
 Welcome to my **JavaScript Notes Repository**.
-This repo is my personal knowledge base built while deeply learning JavaScript from fundamentals to advanced concepts with a heavy focus on **interview preparation** and **real-world coding practice**.
+This repo is my personal knowledge base built while deeply learning JavaScript from fundamentals to advanced concepts.
 
 ---
 
