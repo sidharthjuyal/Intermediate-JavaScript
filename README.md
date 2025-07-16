@@ -44,3 +44,6 @@ Whether you're prepping for product-based companies, freelancing, or just trying
 ## 🔗 Connect
 I'm constantly learning, improving, and refining this. If you're on the same path, feel free to connect.
 > Let’s get better at JavaScript. Brick by brick. Byte by byte.
+
+<img width="800" height="565" alt="image" src="https://github.com/user-attachments/assets/20ab462c-ee46-4231-8396-ede9fc4e3e3d" />
+
