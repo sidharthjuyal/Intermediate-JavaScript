@@ -1,0 +1,1 @@
+# 📘 JavaScript Basics - Notes
