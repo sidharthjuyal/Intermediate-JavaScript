@@ -44,5 +44,3 @@ Whether you're prepping for product-based companies, freelancing, or just trying
 ## 🔗 Connect
 I'm constantly learning, improving, and refining this — if you're on the same path, feel free to connect.
 > Let’s get better at JavaScript. Brick by brick. Byte by byte.
-
----
