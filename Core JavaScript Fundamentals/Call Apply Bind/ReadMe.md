@@ -1,4 +1,4 @@
-### 📘 `call`, `apply`, and `bind` in JavaScript
+## 📘 `call`, `apply`, and `bind` in JavaScript
 > ✅ **Purpose:** Function borrowing — use functions written for one object with a different object, without copying the function.
 
 ---
