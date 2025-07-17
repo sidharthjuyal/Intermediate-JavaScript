@@ -1,4 +1,4 @@
-# Polyfill for `.bind()` & Custom `.map()` – Core JS Fundamentals (Video 2)
+# Polyfill for `.bind()` & Custom `.map()`
 
 ## 🚀 bind() Recap
 - `Function.prototype.bind()` creates a **copy of a function** with `this` keyword bound to the object passed.
