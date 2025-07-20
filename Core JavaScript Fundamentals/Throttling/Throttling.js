@@ -1,7 +1,7 @@
 function expensive() {
   console.log("expensive Function...");
 }
-const betterExpensive = throttle(expensive, 3000);
+const betterExpensive = throttle(expensive, 300);
 
 window.addEventListener("resize", betterExpensive);
 
