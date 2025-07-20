@@ -1,7 +1,25 @@
 # 📦 Function Currying in JavaScript
-Function Currying is a **transforming technique** where a function with multiple arguments is converted into a sequence of functions, each taking a single argument.
+- Function Currying is a **transforming technique** where a function with multiple arguments is converted into a sequence of functions, each taking a single argument.
+- **Currying** is a functional programming technique where a function with multiple arguments is **transformed into a sequence of functions**, each taking **a single argument** and returning a new function until all arguments are provided..
 
 ---
+
+### 🧠 In simpler terms:
+Currying breaks down a function that takes **`n` arguments** into **`n` nested functions**, each taking **one argument at a time**.
+
+---
+
+### 🧪 Example:
+```js
+function sum(a) {
+  return function (b) {
+    return function (c) {
+      return a + b + c;
+    };
+  };
+}
+console.log(sum(1)(2)(3)); // Output: 6
+```
 
 ## 🧠 Why Use Currying?
 - Reuse functions with preset arguments
