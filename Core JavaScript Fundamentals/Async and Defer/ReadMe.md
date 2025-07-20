@@ -82,14 +82,6 @@ When loading a webpage, two major processes occur:
 
 ---
 
-## 🧪 DOMContentLoaded & Script Execution
-* `DOMContentLoaded` event fires **after HTML is parsed**, but **before** styles/images/etc are loaded.
-* **Normal scripts** delay `DOMContentLoaded` until executed.
-* **`async` scripts** may delay or fire before DOMContentLoaded (unpredictable).
-* **`defer` scripts** always execute **just before `DOMContentLoaded` fires**, after HTML parsing.
-
----
-
 ## ⚠️ Bonus Gotcha: Placement Matters
 * `async` and `defer` only work with **external scripts** (i.e., with `src`).
 * They have **no effect on inline scripts**.
@@ -118,5 +110,4 @@ When loading a webpage, two major processes occur:
 * Use `async` only for independent 3rd-party tools.
 * Never use both `async` and `defer` on the same script — browser will treat it as `async`.
 
-```
 
