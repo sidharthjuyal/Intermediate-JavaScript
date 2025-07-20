@@ -73,6 +73,4 @@ const betterFunction = debounceFunction(getData, 300);
 
 ## 🧠 Bonus Insight:
 * Debouncing is different from **throttling**, which ensures a function is called at **regular intervals**, while debouncing waits for **a pause in action**.
-
-```
-
+  
