@@ -19,4 +19,4 @@ let divide = function (x) {
 };
 
 let divideByFive = divide(25);
-divideByFive(5); // output: 5
+divideByFive(5); //  output: 5
